@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=GachanDois&label=Profile%20views&color=0e75b6&style=flat" alt="GachanDois" /> </p>
 
-<img align="right" src="https://c.tenor.com/IRsPgEwtpKkAAAAd/calcifer-fire.gif" alt="Howl" width="250" >
+<img align="right" src="https://tenor.com/view/love-live-nico-nico-yazawa-yazawa-nico-idol-gif-20537009" alt="nikonikoni" width="300" >
 
 
 <h3 align="left">Outras redes sociais:</h3>
