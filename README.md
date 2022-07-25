@@ -17,6 +17,7 @@
   <img align="center" alt="pandas" height = "30" width = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
   <img align="center" alt "jupyter" height="30" width= "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
   </div>
+  <p></p>
 
 <div align="center">
   <a href="https://github.com/GachanDois">
